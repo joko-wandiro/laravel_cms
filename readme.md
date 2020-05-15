@@ -11,9 +11,9 @@
 - Import cms.sql
 - Open administration panel: site/backend then login using the following credentials:
 
-Username:admin@demo.com
+Username: admin@demo.com
 
-Password:admin
+Password: admin
 
 ## License
 
