@@ -10,7 +10,9 @@
 ## Installation
 - Import cms.sql
 - Open administration panel: site/backend then login using the following credentials:
+
 Username:admin@demo.com
+
 Password:admin
 
 ## License
