@@ -1,0 +1,243 @@
+.dk-scaffolding {
+    margin-bottom: 40px;
+}
+.dk-scaffolding .dk-section-multiple-search {
+	margin-bottom: 20px;
+}
+.dk-scaffolding .dk-btn-create {
+	margin-bottom: 20px;
+}
+.dk-scaffolding .dk-entries-per-page {
+	line-height: 34px;
+}
+.dk-container-pagination {
+    text-align: right;
+}
+.dk-scaffolding .pagination {
+	margin: 0px;
+}
+.dk-scaffolding .pagination-info {
+    line-height: 34px;
+}
+.dk-scaffolding .form-control {
+    border-color: #d4dfe5;
+    border-radius: 0px;
+    padding: 0px 12px;
+    color: #333;
+    font-weight: normal;
+}
+.dk-scaffolding .form-control:focus {
+    border-color: #d4dfe5;
+}
+.dk-scaffolding .checkbox input[type=file] {
+    display: inline-block;
+}
+.dk-scaffolding input[type=submit] {
+    margin-right: 8px;
+}
+/* Start Table */
+.dk-scaffolding table th a {
+    display: block;
+    position: relative;
+    color: #333;
+}
+.dk-scaffolding .table > thead > tr > th.active {
+	background: none;
+}
+.dk-scaffolding .table > thead > tr > th a.sortable:hover, 
+.dk-scaffolding .table > thead > tr > th.active a.sortable {
+    background: #d4dfe5;
+    text-decoration: none;
+    cursor: pointer;
+}
+.dk-scaffolding .table > thead > tr > th {
+    padding: 0px;
+}
+.dk-scaffolding .table > thead > tr > th a, 
+.dk-scaffolding .table > thead > tr > th div {
+    background: #e0eaeb;
+    padding: 0px 8px;
+    line-height: 40px;
+}
+.dk-scaffolding .table > thead > tr.dk-table-row-search > th {
+    padding: 8px;
+}
+.dk-scaffolding .table > thead > tr > th a:hover, 
+.dk-scaffolding .table > thead > tr > th a:focus {
+    text-decoration: none;
+    cursor: default;
+}
+.dk-scaffolding table th > a.sortable:after {
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    font-size: 8px;
+    color: #333;
+}
+.dk-scaffolding .table > tbody > tr:last-child > td {
+    border-bottom: 1px solid #ddd;
+}
+.dk-scaffolding table th.headerSortUp > a.sortable:after {
+    content: "\e253";
+}
+.dk-scaffolding table th.headerSortDown > a.sortable:after {
+	content: "\e252";
+}
+.dk-scaffolding .table>tbody>tr>td, 
+.dk-scaffolding .table>tbody>tr>th, 
+.dk-scaffolding .table>tfoot>tr>td, 
+.dk-scaffolding .table>tfoot>tr>th, 
+.dk-scaffolding .table>thead>tr>td, 
+.dk-scaffolding .table>thead>tr>th {
+    border-top: 1px solid #d4dfe5;
+}
+.dk-scaffolding .table>thead>tr>th {
+    border-bottom: 2px solid #d4dfe5;
+}
+.dk-scaffolding .table-hover>tbody>tr:hover {
+    background-color: #dff1ff;
+}
+/* End Table */
+.dk-scaffolding label.error {
+    display: block;
+    padding: 15px;
+    margin: 0px;
+    margin-top: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    font-weight: normal;
+}
+/* Start Page Header */
+.dk-scaffolding .page-header {
+    margin: 0px;
+    padding: 20px;
+    border-top: 1px solid #eee;
+    margin-bottom: 20px;
+}
+.dk-scaffolding .page-header h1 {
+    margin: 0px;
+    font-size: 18px;
+}
+/* End Page Header */
+.dk-scaffolding .dk-entries-per-page select.form-control {
+    display: inline;
+    width: auto;
+}
+/* Start Pagination */
+.dk-scaffolding .pagination>.disabled>a, 
+.dk-scaffolding .pagination>.disabled>a:focus, 
+.dk-scaffolding .pagination>.disabled>a:hover, 
+.dk-scaffolding .pagination>.disabled>span, 
+.dk-scaffolding .pagination>.disabled>span:focus, 
+.dk-scaffolding .pagination>.disabled>span:hover {
+    color: #333;
+    cursor: not-allowed;
+    background-color: #e0eaeb;
+    border: none;
+}
+.dk-scaffolding .pagination>li>a, 
+.dk-scaffolding .pagination>li>span {
+    background-color: #e0eaeb;
+    color: #333;
+    border: none;
+    padding: 0px 12px;
+    line-height: 34px;
+}
+.dk-scaffolding .pagination>li>a:focus, 
+.dk-scaffolding .pagination>li>a:hover, 
+.dk-scaffolding .pagination>li>span:focus, 
+.dk-scaffolding .pagination>li>span:hover {
+    color: #333;
+    background-color: #d4dfe5;
+    border: none;
+}
+.dk-scaffolding .pagination>.active>a, 
+.dk-scaffolding .pagination>.active>a:focus, 
+.dk-scaffolding .pagination>.active>a:hover, 
+.dk-scaffolding .pagination>.active>span, 
+.dk-scaffolding .pagination>.active>span:focus, 
+.dk-scaffolding .pagination>.active>span:hover {
+    color: #333;
+    background-color: #d4dfe5;
+    border: none;
+}
+/* End Pagination */
+/* Start View Page */
+.form-label {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+.form-content {
+    color: #333;
+    line-height: 34px;
+    border: 1px solid #d4dfe5;
+    border-radius: 0px;
+    padding: 0px 12px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+/* End View Page */
+/* Start Button */
+.dk-scaffolding .btn.focus, 
+.dk-scaffolding .btn:focus, 
+.dk-scaffolding .btn:hover {
+    color: #fff;
+}
+.dk-scaffolding .btn-default {
+    background-color: #2196f3;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    padding: 0px 12px;
+    line-height: 34px;
+}
+.dk-scaffolding .btn-default.focus, 
+.dk-scaffolding .btn-default:focus, 
+.dk-scaffolding .btn-default:hover, 
+.dk-scaffolding .btn-default:active, 
+.dk-scaffolding .btn-default:active:focus {
+    background-color: #0c8ef2;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+}
+.dk-scaffolding .btn-primary {
+    background-color: #6cb22e;
+    color: #fff;
+    border: none;
+    border-radius: 0px;
+    padding: 0px 12px;
+    line-height: 34px;
+}
+.dk-scaffolding .btn-primary.focus, 
+.dk-scaffolding .btn-primary:focus, 
+.dk-scaffolding .btn-primary:hover, 
+.dk-scaffolding .btn-primary:active, 
+.dk-scaffolding .btn-primary:active:focus {
+    background-color: #5ead14;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+}
+/* End Button */
+.dk-scaffolding span.required {
+    color: red;
+}
+@media (max-width: 768px) {
+	.dk-scaffolding .dk-section-form-buttons {
+		margin-top: 20px;
+	}
+	.dk-scaffolding .dk-entries-per-page, 
+	.dk-scaffolding .dk-container-pagination-info {
+		margin-bottom: 10px;
+	}
+	.dk-scaffolding .dk-container-pagination {
+	    text-align: left;
+	}
+}

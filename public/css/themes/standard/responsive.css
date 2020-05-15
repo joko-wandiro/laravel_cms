@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+	#comments .comment p.c-date {
+		font-size: 12px;
+		text-align: left;
+		line-height: normal;
+		margin-top: 10px;
+	}
+}
