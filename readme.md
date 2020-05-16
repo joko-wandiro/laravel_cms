@@ -10,7 +10,9 @@
 ## Instalasi
 - Import cms.sql
 - Buka panel administrasi atau backend yaitu url_situs/backend lalu login menggunakan username dan password berikut:
+
 Username: admin@demo.com
+
 Password: admin
 
 ## Donasi
