@@ -16,7 +16,7 @@ Username: admin@demo.com
 Password: admin
 
 Donasi:
-https://saweria.co/jokowandiro?fbclid=IwAR3FWY66WHT64BcleL-PrQi9R7t6mdfbsSF8rX0RgQakRqAcoddvBPjbktg
+https://saweria.co/jokowandiro
 
 ## Lisensi
 
