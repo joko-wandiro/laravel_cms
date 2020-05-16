@@ -7,14 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Installation
+## Instalasi
 - Import cms.sql
-- Open administration panel: site/backend then login using the following credentials:
+- Buka panel administrasi atau backend yaitu url_situs/backend lalu login menggunakan username dan password berikut:
 
 Username: admin@demo.com
 
 Password: admin
 
-## License
+Donasi:
+https://saweria.co/jokowandiro?fbclid=IwAR3FWY66WHT64BcleL-PrQi9R7t6mdfbsSF8rX0RgQakRqAcoddvBPjbktg
+
+## Lisensi
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
